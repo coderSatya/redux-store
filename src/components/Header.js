@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>Mens Store</div>
+    <div>E-Commerce Store</div>
   )
 }
 
