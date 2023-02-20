@@ -1,0 +1,25 @@
+.image{
+    width:400px;
+    height:300px;
+}
+
+.heading{
+    text-align: center;
+    font-size: 40p;
+    font-weight: bold;
+    color:white;
+    background-color:black;
+    margin: 5px 5px 10px 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+}
+.product{
+    margin:10px;
+}
+.link{
+    text-decoration: none;
+}
